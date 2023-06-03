@@ -3,9 +3,9 @@ Este proyecto tiene como objetivo diseñar y construir un sistema de balanza y b
 
 Contenido del Repositorio
 
-/Arduino: Contiene el código fuente de Arduino para el controlador PID.
-/Diseño: Incluye los archivos de diseño y planos de la estructura de la balanza y la bola.
-/Documentación: Contiene información adicional sobre el proyecto, incluyendo diagramas, fotografías y notas técnicas.
+Arduino: Contiene el código fuente de Arduino para el controlador PID.
+Diseño: Incluye los archivos de diseño y planos de la estructura de la balanza y la bola.
+Documentación: Contiene información adicional sobre el proyecto, incluyendo diagramas, fotografías y notas técnicas.
 
 Instrucciones de Uso
 
